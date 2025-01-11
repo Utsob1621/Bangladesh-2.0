@@ -125,3 +125,86 @@ main{
     font-weight: 400;
     color: rgba(14, 14, 14, 0.7);
 }
+
+.vision-section{
+    max-width: 1280px;
+    margin-top: 80px;
+
+}
+.vision-title{
+    font-size: 40px;
+    font-weight: 700;
+}
+.vision-content{
+    margin-top: 24px;
+    font-size: 16px;
+    font-weight: 400;
+    color: rgba(14, 14, 14, 0.7);
+    margin-bottom: 32px;
+}
+.vision-cards{
+    display: flex;
+    gap: 24px;
+}
+.vision-card{
+    background-color: rgba(84, 144, 245, 0.2);
+    padding: 32px;
+    border-radius: 16px;
+}
+.vision-card-title{
+    margin-top: 25px;
+
+}
+.vision-crd-content{
+    margin-top: 12px;
+    font-weight: 400;
+    color: rgba(14, 14, 14, 0.7);
+    font-size: 16px;
+
+}
+.vision-btn{
+    margin-top: 24px;
+    width: 132px;
+    height: 41px;
+    padding: 11px 20px;
+    border-radius: 8px;
+    background-color:rgb(84, 144, 245);
+    color: rgb(255, 255, 255);
+    font-weight: 600;
+    font-size: 16px;
+    border: none;
+}
+.vision-card2{
+    border-radius: 16px;
+    padding: 32px;
+    background: rgb(198, 228, 214) ;
+}
+.vision-btn2{
+    margin-top: 24px;
+    width: 132px;
+    height: 41px;
+    padding: 11px 20px;
+    border-radius: 8px;
+    background: rgb(9, 161, 92);
+    color: rgb(255, 255, 255);
+    font-weight: 600;
+    font-size: 16px;
+    border: none;
+}
+.vision-card3{
+    border-radius: 16px;
+    padding: 32px;
+    background: rgb(247, 235, 207);
+}
+.vision-btn3{
+    margin-top: 24px;
+    width: 132px;
+    height: 41px;
+    padding: 11px 20px;
+    border-radius: 8px;
+    background: rgb(255, 194, 57);
+    color: rgb(255, 255, 255);
+    font-weight: 600;
+    font-size: 16px;
+    border: none;
+}
