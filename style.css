@@ -85,3 +85,43 @@ body{
     border-radius: 8px;
 
 }
+
+main{
+    margin: 0 160px;
+}
+
+
+
+/* pillars-section */
+
+
+
+.pillars-title1{
+    font-size: 40px;
+    font-weight: 700;
+    margin-bottom: 32px;
+}
+.pillers {
+    display: flex;
+    gap: 24px;
+}
+.pillar-card{
+    width: 320px;
+    height: 244px;
+    padding: 26px;
+    border:1px solid rgba(14, 14, 14, 0.15);
+    gap: 12px;
+    border-radius: 16px;
+    background: rgb(255, 255, 255);
+}
+.pillar-card-tilte{
+    font-size: 22px;
+    font-weight: 700;
+    margin-top: 33px;
+    margin-bottom: 14px;
+}
+.pi-crd-cont{
+    font-size: 18px;
+    font-weight: 400;
+    color: rgba(14, 14, 14, 0.7);
+}
